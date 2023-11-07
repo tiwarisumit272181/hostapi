@@ -1,0 +1,87 @@
+[
+    {
+      "name": "iPhone 13 Pro",
+      "price": 999,
+      "feature": true,
+      "rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S22",
+      "price": 899,
+      "feature": true,
+      "rating": 4.8,
+      "company": "samsung"
+    },
+    {
+      "name": "XPS 13 Laptop",
+      "price": 1299,
+      "feature": false,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi Note 11",
+      "price": 299,
+      "feature": true,
+      "rating": 4.5,
+      "company": "mi"
+    },
+    {
+      "name": "MacBook Air",
+      "price": 1199,
+      "feature": true,
+      "rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy Tab S7",
+      "price": 649,
+      "feature": false,
+      "rating": 4.7,
+      "company": "samsung"
+    },
+    {
+      "name": "Inspiron 14 Laptop",
+      "price": 699,
+      "feature": true,
+      "rating": 4.6,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi 10",
+      "price": 199,
+      "feature": false,
+      "rating": 4.4,
+      "company": "mi"
+    },
+    {
+      "name": "iPhone SE",
+      "price": 399,
+      "feature": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy Watch 4",
+      "price": 249,
+      "feature": true,
+      "rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "Latitude 15 Laptop",
+      "price": 999,
+      "feature": false,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi Note 9 Pro",
+      "price": 229,
+      "feature": true,
+      "rating": 4.5,
+      "company": "mi"
+    }
+  ]
+  
